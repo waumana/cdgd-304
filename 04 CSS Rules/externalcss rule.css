@@ -1,0 +1,38 @@
+body {
+    
+     font-family: bentonsans regular;
+            background-color: lightgrey
+}
+           
+h1 {
+    color: dimgrey;
+    
+}
+ol {
+    color: blue;
+}       
+
+li {
+    font-family: helvetica;
+    color: aqua;
+    background-color: white;
+
+}
+
+}
+p {
+background-color: bisque;
+
+}
+
+h2 {
+    font-family: Didot;
+    background-color: beige;
+        
+}
+
+
+i{
+    color: whitesmoke;
+    font-family: Didot;
+}
